@@ -1,0 +1,4 @@
+# Keep LF so shell scripts run and the THOUGHTS.md hash chain verifies on every OS.
+*.sh text eol=lf
+submission/THOUGHTS.md text eol=lf
+benchmark/vectors/* -text

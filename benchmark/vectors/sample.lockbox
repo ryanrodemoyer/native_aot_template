@@ -1,0 +1,15 @@
+{
+  "format": "lockbox-vault",
+  "version": 1,
+  "kdf": {
+    "algorithm": "pbkdf2-sha256",
+    "iterations": 100000,
+    "salt": "AAECAwQFBgcICQoLDA0ODw=="
+  },
+  "cipher": {
+    "algorithm": "aes-256-gcm",
+    "nonce": "oKGio6Slpqeoqaqr",
+    "tag": "lO9zNl7sxO/IjRLCOhnb0w=="
+  },
+  "ciphertext": "UnEeOzE0llLkrP1N2PwK81wshynE7CXewM01HB0aJrkUGw8LLhr9Jf6D3/NKx5G7l+gQ2koXWex2dpvqjl++uR85zbAWvr32i0DIaRE8LAHhxmafASgTOwJpbSoZJyI0NHGVGiofbMMQmZ5fRFJzDC2PDSABW/7vHgApPEihxoZsrNf35YVeGJsmsjGcWheT/xLqCkdsNBtJFxH0miTILtk0VIbx4rruxKwCfgAYT9msScuJPxE20k8IfpFcgfnSusIEDtnHuD1Yw3bmHSjn3Q78TU5Q8YUOAFrXo39uCXSxxSVoibQbZk/vi3avk3ioQF5xKYGzEw/ECEqpPcf7viF4fIHNx7baF6M5b8hWxwaDoxD7ww=="
+}
